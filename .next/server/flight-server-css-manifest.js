@@ -1,1 +1,0 @@
-self.__RSC_CSS_MANIFEST={"cssImports":{"/Users/hossam/Desktop/LeetCode/tabletop/app/layout.tsx":["/Users/hossam/Desktop/LeetCode/tabletop/app/globals.css"]},"cssModules":{"/Users/hossam/Desktop/LeetCode/tabletop/app/page":["/Users/hossam/Desktop/LeetCode/tabletop/app/globals.css"]}}

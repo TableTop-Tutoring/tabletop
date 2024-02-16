@@ -5,4 +5,6 @@ module.exports = nextConfig
 module.exports = {
     output: 'export',
     // other configurations
-  }
+    basePath: '/tabletop',
+    assetPrefix: '/tabletop/',
+}
